@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Private Lesson Timecard</string>
+    <string name="title_activity_add">Add Timecard Entry</string>
+</resources>
